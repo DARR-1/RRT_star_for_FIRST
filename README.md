@@ -1,1 +1,1 @@
-# RRT_star_for_FIRST
+# RRT_star_algoritm_for_FIRST_autonomous
