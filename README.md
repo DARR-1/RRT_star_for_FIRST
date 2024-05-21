@@ -1,1 +1,7 @@
-# RRT_star_algoritm_for_FIRST_autonomous
+# Implementación del algoritmo RRT* para autonomos en FIRST
+
+- [Introducción](#introducción)
+
+## Introducción
+
+Aún no se que poner XD n
